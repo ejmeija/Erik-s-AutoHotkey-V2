@@ -1,15 +1,2 @@
-Hello!
-This is the newest version of a chatbot I have seen.
-
-
-
-FEATURES:
-Auto Chats and Enters
-Chat button customizable
-Words customizable
-Words are random
-And it makes sure you know whats happening.
-
-
-INSTALLATION:
-run cd
+Made by Erik
+a cool dude
