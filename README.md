@@ -15,7 +15,7 @@ And it makes sure you know whats happening.
 
 
 # INSTALLATION:
-run cd C:\Users\(youruser)\Downloads\Erik's Hotkey v2
+run cd C:\Users\whatever ur user is\Downloads\Erik's Hotkey v2
 
 run pip install -r requirements.txt
 
