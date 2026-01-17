@@ -1,7 +1,6 @@
 #Libraries
 import pyautogui
 import time
-import colorama
 import random
 #Hotkeys. Customizable stuff is a bit down there.
 def Minecraft_Hotkey():
@@ -69,6 +68,7 @@ else:
 
 
        
+
 
 
 
